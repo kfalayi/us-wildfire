@@ -127,7 +127,7 @@ map2.on('load', function () {
         type: "fill",
         source: {
         type: "geojson",
-        data: "data/caliData.geojson",
+        data: "data/CaliData.geojson",
         },
         maxzoom: 5,
         paint: {
